@@ -1,0 +1,7 @@
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\obj\Debug\otomasyon.csprojAssemblyReference.cache
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\ETHEM\source\repos\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
